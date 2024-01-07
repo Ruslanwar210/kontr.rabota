@@ -19,7 +19,7 @@
 
 # Диаграмма
 
-> ![diagrama](diagramma-1.png))
+> ![diagrama](diagramma-1.png)
 # Код программы:
 ```cs
 Commands();
@@ -95,5 +95,10 @@ void PrintArray(string[] array)
 }
 ```
 
+Результат:
+> ![Alt text](2024-01-07_22-33-33.png)
 
+Результут коммитов:
+
+> ![Alt text](commit.png)
 
